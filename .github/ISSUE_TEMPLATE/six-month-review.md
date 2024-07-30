@@ -7,8 +7,6 @@ assignees: tms-epcc
 
 ---
 
-Cycle NN planning -see (add link to wiki planning page for this cycle)
-
 - [ ] Create Zenhub epic for this cycle's six-month plan
 - [ ] Create tickets for latest 6 month objectives if necessary 
 - [ ] Review previous 6 month plan Epic kanban 
